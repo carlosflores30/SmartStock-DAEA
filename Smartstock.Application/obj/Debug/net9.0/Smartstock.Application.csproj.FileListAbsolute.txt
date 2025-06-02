@@ -1,0 +1,15 @@
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/bin/Debug/net9.0/Smartstock.Application.deps.json
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/bin/Debug/net9.0/Smartstock.Application.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/bin/Debug/net9.0/Smartstock.Application.pdb
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/bin/Debug/net9.0/Smartstock.Domain.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/bin/Debug/net9.0/Smartstock.Domain.pdb
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.csproj.AssemblyReference.cache
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.AssemblyInfoInputs.cache
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.AssemblyInfo.cs
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.csproj.CoreCompileInputs.cache
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartsto.1291C5B2.Up2Date
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/refint/Smartstock.Application.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/Smartstock.Application.pdb
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Application/obj/Debug/net9.0/ref/Smartstock.Application.dll

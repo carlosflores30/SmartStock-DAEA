@@ -1,0 +1,12 @@
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/bin/Debug/net9.0/Smartstock.Domain.deps.json
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/bin/Debug/net9.0/Smartstock.Domain.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/bin/Debug/net9.0/Smartstock.Domain.pdb
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.csproj.AssemblyReference.cache
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.AssemblyInfoInputs.cache
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.AssemblyInfo.cs
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.csproj.CoreCompileInputs.cache
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/refint/Smartstock.Domain.dll
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/Smartstock.Domain.pdb
+/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/obj/Debug/net9.0/ref/Smartstock.Domain.dll

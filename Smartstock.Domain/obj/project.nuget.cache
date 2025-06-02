@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cd4DVb8Shm0=",
+  "success": true,
+  "projectFilePath": "/Users/robertoflores/RiderProjects/Smartstock/Smartstock.Domain/Smartstock.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertoflores/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/Users/robertoflores/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/Users/robertoflores/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/robertoflores/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

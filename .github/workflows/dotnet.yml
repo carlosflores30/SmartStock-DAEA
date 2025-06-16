@@ -28,11 +28,10 @@ jobs:
 
 
     - name: Build application
-      run: dotnet build --configuration Release
-
+      run: dotnet build SmartStock-AI/SmartStock-AI.csproj --configuration Release
 
     - name: Publish application
-      run: dotnet publish --configuration Release --output ./published
+      run: dotnet publish SmartStock-AI/SmartStock-AI.csproj --configuration Release --output ./published
 
 
     - name: Deploy to server (ejemplo de despliegue)

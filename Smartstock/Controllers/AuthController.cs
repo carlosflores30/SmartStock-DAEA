@@ -7,6 +7,7 @@ namespace Smartstock.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+// prueba para hacer commit.
 public class AuthController : ControllerBase
 {
     private readonly IAuthService _authService;

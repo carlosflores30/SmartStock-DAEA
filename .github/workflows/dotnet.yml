@@ -1,31 +1,25 @@
-
 name: Build and Deploy .NET Application
-
 
 on:
   push:
     branches:
-      - main # Automáticamente se ejecuta cuando se suben cambios a la rama principal
-
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Check out code
-      uses: actions/checkout@v2
-
+      uses: actions/checkout@v3
 
     - name: Set up .NET
-      uses: actions/setup-dotnet@v1
+      uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '9.0'
-
+        dotnet-version: '8.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore
-
+      run: dotnet restore Smartstock/Smartstock.csproj
 
     - name: Build application
       run: dotnet build Smartstock/Smartstock.csproj --configuration Release
@@ -33,7 +27,9 @@ jobs:
     - name: Publish application
       run: dotnet publish Smartstock/Smartstock.csproj --configuration Release --output ./published
 
-
     - name: Deploy to server (ejemplo de despliegue)
       run: |
-        scp -r ./published carlosflores30@192.168.1.20:/var/www/smartstock
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > deploy_key
+        chmod 600 deploy_key
+        scp -i deploy_key -r ./published ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}
+
